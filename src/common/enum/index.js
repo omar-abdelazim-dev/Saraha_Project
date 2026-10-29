@@ -5,3 +5,5 @@ export { roleEnum } from "./role.enum.js";
 export { authEnum } from "./auth.enum.js";
 export { logoutEnum } from "./logout.type.enum.js";
 export { eventEnum } from "./events.enum.js";
+export { messageTypeEnum } from "./message.enum.js";
+export { requestStatusEnum } from "./requestStatus.enum.js";
